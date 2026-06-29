@@ -12,7 +12,7 @@ Configure default gateways
 Verify connectivity using ICMP (ping)
 
 Network Topology
-![Topology](screenshots/topology.png)
+![topology](screenshots/topology.png)
 
 NETWORK REQUIREMENTS
 | Requirement                                 | Status |
