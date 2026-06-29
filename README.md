@@ -63,4 +63,5 @@ VLAN implementation
 DHCP server
 Inter-VLAN Routing
 ACLs
-Dynamic Routing (OSPF)
+
+PacketTracer/Simple Office Networking Project using Packet Tracer.pkt
