@@ -24,6 +24,14 @@ NETWORK REQUIREMENTS
 | Proper cabling                              | ✅      |
 | End-to-end connectivity                     | ✅      |
 
+Requirements
+- Each department must contain at least two PCs.
+- Use an appropriate number of routers and switches.
+- Configure all devices using the 192.168.40.0 network.
+- Assign valid IP addresses, subnet masks, and default gateways.
+- Connect all devices using the appropriate cables.
+- Verify connectivity by ensuring that PCs in the Delivery department can successfully ping PCs in the Accounts department.
+
 IP Addressing
 | Device | Interface | IP Address   |
 | ------ | --------- | ------------ |
