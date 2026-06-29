@@ -39,7 +39,7 @@ IP Addressing
 Connectivity Test
 The network was tested using ICMP ping.
 Successful communication was verified between the Accounts and Delivery department PCs.
-![test](Screenshots/test.png)
+![test](screenshots/test/test.png)
 
 Skills Demonstrated
 Cisco Packet Tracer
@@ -64,4 +64,4 @@ DHCP server
 Inter-VLAN Routing
 ACLs
 
-PacketTracer/Simple Office Networking Project using Packet Tracer.pkt
+[Simple Office Networking Project using Packet Tracer.pkt](PacketTracer/Simple Office Networking Project using Packet Tracer.pkt)
